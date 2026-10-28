@@ -1,4 +1,7 @@
 # CarKaraoke
+
+本 Fork 的 **1920×862 横屏适配版**：源码、构建方法和版本说明见 [android/README.md](android/README.md)。
+
 车机版无麦K歌
 通过ADB安装到车机，务必授予录音权限！！！！
 
